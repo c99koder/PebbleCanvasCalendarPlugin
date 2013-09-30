@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PebbleCanvasCalendarPlugin/PebbleCanvasCalendarPlugin.iml" filepath="$PROJECT_DIR$/PebbleCanvasCalendarPlugin/PebbleCanvasCalendarPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PebbleCanvasCalendarPluginProject.iml" filepath="$PROJECT_DIR$/PebbleCanvasCalendarPluginProject.iml" />
+    </modules>
+  </component>
+</project>
+
